@@ -10,11 +10,8 @@
 - Uso do pacote SVGR para importar svgs como componentes React;
 - Imports dinâmicos utilizando a pasta public.
 
-In the project directory, you can run:
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Link do projeto:
+https://aluroni-mu.vercel.app/
 
 https://user-images.githubusercontent.com/89262324/174656010-e9186b20-1bc7-45b2-a626-216d1ad8b1ff.mp4
 
